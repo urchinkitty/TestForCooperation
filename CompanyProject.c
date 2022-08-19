@@ -8,6 +8,7 @@ int main(void)
     // Major Member
 
     // Minor Member
+    printf("This is my part to cooperate. I did my job.");
 
     // Result
 
