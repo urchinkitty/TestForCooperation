@@ -9,6 +9,7 @@ int main(void)
     printf("I'm M. I did my job as well when A is working.");
     
     // Minor Member
+    printf("This is my part to cooperate. I did my job.");
 
     // Result
     
